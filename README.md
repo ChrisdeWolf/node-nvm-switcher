@@ -8,7 +8,7 @@
 
 **Installation**
 --
-  1. Clone the repo: ```git clone https://github.com/yourusername/node-nvm-switcher.git```
+  1. Clone the repo: ```git clone https://github.com/ChrisdeWolf/node-nvm-switcher.git```
   2. Make the script executable (if necessary): ```chmod +x node-nvm-switcher.sh```
   3. Add to PATH, env vars, or use as-is
 
@@ -20,4 +20,4 @@
 
   example:
 
-        ./node-nvm-switcher.sh -v 21.7.1
+        ./node-nvm-switcher.sh -v 20.17.0
